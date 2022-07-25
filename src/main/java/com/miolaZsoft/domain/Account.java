@@ -3,7 +3,7 @@ package com.miolaZsoft.domain;
 import java.io.PrintStream;
 import java.util.Date;
 
-import static org.craftedsw.domain.Amount.amountOf;
+import static com.miolaZsoft.domain.Amount.amountOf;
 
 public class Account {
 

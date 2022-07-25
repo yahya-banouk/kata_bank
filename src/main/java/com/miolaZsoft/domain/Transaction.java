@@ -4,8 +4,9 @@ import java.io.PrintStream;
 import java.text.SimpleDateFormat;
 import java.util.Date;
 
+import static com.miolaZsoft.domain.Amount.amountOf;
 import static org.codehaus.plexus.util.StringUtils.rightPad;
-import static org.craftedsw.domain.Amount.amountOf;
+
 
 public class Transaction {
 
